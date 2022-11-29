@@ -28,6 +28,8 @@ Squirrel Engine is a game engine that runs efficiently on multi-core processors.
 ### :video_game: Game Development 
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=UnrealEngine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
+
+### :art: Design
 ![Maya](https://img.shields.io/badge/Maya-000000?style=for-the-badge&logo=Maya&logoColor=white)
 
 ## Stats :bar_chart:
